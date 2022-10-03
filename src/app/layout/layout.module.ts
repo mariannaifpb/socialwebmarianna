@@ -14,4 +14,4 @@ import { MatMenuModule } from '@angular/material/menu/menu-module';
   ],
   declarations: []
 })
-export class NgGModuleLayoutModule { }
+export class LayoutModule { }
