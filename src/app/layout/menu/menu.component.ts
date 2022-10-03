@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './ng.component.html',
   styleUrls: ['./ng.component.css']
 })
-export class NgGComponentLayout/menuComponent implements OnInit {
+export class MenuComponent implements OnInit {
 
   constructor() { }
 
