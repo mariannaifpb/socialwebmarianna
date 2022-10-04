@@ -7,7 +7,6 @@ import { MenuComponent } from './menu/menu.component';
 
 @NgModule({
   imports: [
-    CommonModule,
     BrowserAnimationsModule,
     CommonModule,
     MatButtonModule,
